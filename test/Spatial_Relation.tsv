@@ -1,0 +1,80 @@
+index	input_type	type	image_path	video_path	question	answer	data_source	task
+413	image	MCQ	SPHERE-VLM/acb525792b5be005dae8c747cdebe6c2272c1028fc9bf61d8bce5cab0004cf32.jpg	none	"If you are the man in the image, where is the girl relative to your position?
+Select from the following choices.
+(A) left
+(B) right"	A	SPHERE-VLM	Spatial_Relation
+52	image	MCQ	ABAAGU/aba_00052.jpg	none	"If you are the man in the image, where is the girl relative to your position?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) left
+(B) right
+"	A	ABAAGU	Spatial Perception
+53	image	MCQ	ABAAGU/aba_00053.jpg	none	"From the perspective of the viewer, where is the man relative to the woman at the stall?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) left
+(B) right"	A	ABAAGU	Spatial Perception
+54	image	MCQ	ABAAGU/aba_00054.jpg	none	"If you are sitting at the left tray, where is the drink relative to your position?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) on your right
+(B) on your left"	B	ABAAGU	Spatial Perception
+55	image	MCQ	ABAAGU/aba_00055.jpg	none	"If you are the man in the image, where is the girl wearing pink shirt relative to you?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) left
+(B) right
+(C) in front
+(D) behind"	B	ABAAGU	Spatial Perception
+56	image	MCQ	ABAAGU/aba_00056.jpg	none	"If you are the player in the white jersey with the number 5, where is the catcher relative to your position?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) behind
+(B) in front"	A	ABAAGU	Spatial Perception
+57	image	MCQ	ABAAGU/aba_00057.jpg	none	"Is the truck in front of the boat?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) Yes
+(B) No"	A	ABAAGU	Spatial Perception
+58	image	MCQ	ABAAGU/aba_00058.jpg	none	"If you are the woman in the red shirt, where is the stove relative to your position?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) in front
+(B) behind"	B	ABAAGU	Spatial Perception
+59	image	MCQ	ABAAGU/aba_00059.jpg	none	"From the perspective of the viewer, where is the batter relative to the catcher?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) left
+(B) right"	A	ABAAGU	Spatial Perception
+60	image	MCQ	ABAAGU/aba_00060.jpg	none	"If you are the woman in the image, where is the telephone relative to your position?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) behind
+(B) in front"	B	ABAAGU	Spatial Perception
+61	image	MCQ	ABAAGU/aba_00061.jpg	none	"Is the backpack on top of the cat?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) Yes
+(B) No"	B	ABAAGU	Spatial Perception
+64	image	MCQ	ABAAGU/aba_00064.jpg	none	"If the ceiling lamp fell vertically would it hit the cabinet?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) Yes
+(B) No"	B	ABAAGU	Spatial Perception
+65	image	MCQ	ABAAGU/aba_00065.jpg	none	"What object is partially visible in the mirror?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) painting
+(B) table
+(C) chair"	A	ABAAGU	Spatial Perception
+66	image	MCQ	ABAAGU/aba_00066.jpg	none	"Is the yellow flower vase closer to the camera than the brown door?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) Yes
+(B) No"	A	ABAAGU	Spatial Perception
+67	image	MCQ	ABAAGU/aba_00067.jpg	none	"Which object is closer to the fireplace: the sofa or the white coffee table?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) sofa
+(B) coffee table
+(C) they are equally close"	A	ABAAGU	Spatial Perception
+68	image	MCQ	ABAAGU/aba_00068.jpg	none	"Is the 3D distance between the armchair and the tv smaller than the 3D distance between the armchair and the bottle?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) Yes
+(B) No"	A	ABAAGU	Spatial Perception
+69	image	MCQ	ABAAGU/aba_00069.jpg	none	"Are there more paintings, chairs or lamps?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) paintings
+(B) chairs
+(C) lamps"	B	ABAAGU	Spatial Perception
+71	image	MCQ	ABAAGU/aba_00071.jpg	none	"What is taller in 3D: the lamp or the small table below it?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) the lamp
+(B) the small table
+(C) they are equally tall"	B	ABAAGU	Spatial Perception

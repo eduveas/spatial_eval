@@ -1,0 +1,121 @@
+index	input_type	type	image_path	video_path	question	answer	data_source	task
+72	image	MCQ	ABAAGU/aba_00072.png	none	"What will you pass by when walking from Gate 8 to Gate 7?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) lift
+(B) nursing room
+(C) water fountain
+(D) toilet"	A	ABAAGU	Spatial Perception
+73	image	MCQ	ABAAGU/aba_00073.png	none	"How many routes are there from Gate 1 to Gate 9?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 2
+(B) 0
+(C) 1
+(D) 3"	A	ABAAGU	Spatial Perception
+74	image	MCQ	ABAAGU/aba_00074.png	none	"Which gate will you pass when going from Gate 5 to Gate 11?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 14
+(B) 10
+(C) 6
+(D) 4"	C	ABAAGU	Spatial Perception
+75	image	MCQ	ABAAGU/aba_00075.png	none	"What will I pass when walking from Point A to the exit?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) fire extinguisher
+(B) C
+(C) B
+(D) D"	A	ABAAGU	Spatial Perception
+76	image	MCQ	ABAAGU/aba_00076.png	none	"What will I see on the way to Exit N?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) Fire Pull
+(B) AED Devices
+(C) Exit J
+(D) First Aid"	A	ABAAGU	Spatial Perception
+77	image	MCQ	ABAAGU/aba_00077.png	none	"Which place is not passed when walking from the kitchen to Bedroom 1?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) Linen
+(B) Patio
+(C) Great room
+(D) Bedroom 2"	B	ABAAGU	Spatial Perception
+78	image	MCQ	ABAAGU/aba_00078.png	none	"What won't I pass when heading from the balcony to the smaller bathroom?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) kitchen
+(B) bedroom
+(C) living
+(D) laundry"	D	ABAAGU	Spatial Perception
+79	image	MCQ	ABAAGU/aba_00079.png	none	"If you are facing the washing machine, how should you walk to the stove and face the stove?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) Turn around and go straight, then turn right and go straight, then turn left and go straight, finally turn left to face the stove
+(B) Turn around and go straight, then turn right and go straight, then turn right and go straight, finally turn left to face the stove
+(C) Turn around and go straight, then turn left and go straight, then turn left and go straight, finally turn left to face the stove
+(D) Turn around and go straight, then turn left and go straight, then turn right and go straight, finally turn left to face the stove"	D	ABAAGU	Spatial Perception
+80	image	MCQ	ABAAGU/aba_00080.png	none	"How many doors need to be passed through from one bathroom to another bathroom?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 5
+(B) 3
+(C) 6
+(D) 2"	B	ABAAGU	Spatial Perception
+81	image	MCQ	ABAAGU/aba_00081.png	none	"If you're in the room with a computer and facing the door, how to walk to the room that has white sofa?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) Go straight out and then turn right, then go straight and enter the second door on the left
+(B) Go straight out and then turn left, then go straight and enter the second door on the left
+(C) Go straight out and then turn right, then go straight and enter the first door on the left
+(D) Go straight out and then turn left, then go straight and enter the first door on the right"	B	ABAAGU	Spatial Perception
+82	image	MCQ	ABAAGU/aba_00082.jpg	none	"Please provide instructions to walk to the Ambulance.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) go to the left around the bicycle, cross the street to the grey car, turn right and walk straight
+(B) go to the right around the bicycle, turn to your right, cross the street, turn to your left and walk along the sidewalk
+(C) walk straight 10 meters
+(D) go around the bicycle and walk straight to the red cone, turn to your right and walk 7 meters"	B	ABAAGU	Spatial Perception
+83	image	MCQ	ABAAGU/aba_00083.jpg	none	"How would you walk to get to the building?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) walk straight ahead, stop at the stop sign, check for passing bicycles, continue walking straight ahead
+(B) walk straight ahead for 15 meters
+(C) walk straight, turn left, walk to the green sign, turn right, walk forward for 7 meters
+(D) walk towards the blue sign, turn slightly left, walk forward for 15 meters"	A	ABAAGU	Spatial Perception
+84	image	MCQ	ABAAGU/aba_00084.jpg	none	"How should you walk to restaurant Torino shown on this image?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) At the traffic light turn left and cross the street, then turn to your right and wait for the light to turn green, then cross the sidewalk and walk 3 meters to your right
+(B) Walk to the traffic light, turn to your left 45 degrees, walk straight ahead for 16 meters.
+(C) Turn to your left, cross the street, turn to your left and walk 10 meters straight.
+(D) At the traffic light turn left and cross the street, then turn to your left, walk to the next corner and turn right, walk 5 meters."	A	ABAAGU	Spatial Perception
+85	image	MCQ	ABAAGU/aba_00085.jpg	none	"How to walk to the door of the monastery, shown in this image?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) keep walking straight forward
+(B) walk forward for 5 meters, turn slightly to your right and walk up the street
+(C) walk straight ahead turn to your left and keep walking for 10 meters
+(D) walk forward for 5 meters, turn slightly to your right, walk up the street, at the yellow house turn right"	B	ABAAGU	Spatial Perception
+86	image	MCQ	ABAAGU/aba_00086.jpg	none	"How would one walk to the bakery, shown in this image?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) At the edge of the sidewalk look for passing vehicles, when safe cross the street, turn to your right and walk 5 meters.
+(B) At the edge of the sidewalk look for passing vehicles, when safe cross the street, turn to your left and walk 5 meters
+(C) At the edge of the sidewalk look for passing vehicles, when safe cross the street, continue straight for 10 meters
+(D) Walk to your left for 20 meters, turn right and cross the street, turn left and walk 20 meters."	A	ABAAGU	Spatial Perception
+87	image	MCQ	ABAAGU/aba_00087.png	none	"How to walk to the tramway?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) Walk straight until the traffic light. Wait for a crossing signal. Cross the street and turn right. Wait for a crossing signal. Cross the street and turn left. Keep walking until the tramway stop
+(B) Keep walking forward to the traffic light. Wait for a crossing signal. Cross the street and turn left. Keep walking.
+(C) Walk straight ahead to the traffic light. Wait for a crossing signal. Cross the street and keep walking forward.
+(D) Walk straight ahead to the traffic light and turn right. Wait for a crossing signal. Cross the street and keep walking forward."	A	ABAAGU	Spatial Perception
+88	image	MCQ	ABAAGU/aba_00088.jpg	none	"How to walk to the pink house?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) At the traffic light turn right and wait for a crossing signal. Cross the street and turn left. Keep walking forward to the pink house.
+(B) Keep walking straight ahead. When reaching the height of the white van turn right and cross the street without looking.
+(C) At the traffic light turn right and wait for a crossing signal. Cross the street, turn right and move forward.
+(D) Walk forward, turn left before reaching the woman in the black jacket. Cross the bike lane, turn right and keep walking forward."	A	ABAAGU	Spatial Perception
+89	image	MCQ	ABAAGU/aba_00089.jpg	none	"How to get to the house with the 'Weikhard' sign?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) Look for coming tramways left or right. When safe cross to the opposite sidewalk. Turn left and walk to the watch on a pole.
+(B) Look for coming tramways left or right. When safe cross to the opposite sidewalk. Turn right and walk straight for 25 meters.
+(C) Walk straight for 25 meters. Turn left and cross the street. Turn right and walk to the orange house.
+(D) Walk straight until you reach a crossing. Wait for a crossing signal. Continue forward until you reach a blue house."	A	ABAAGU	Spatial Perception
+90	image	MCQ	ABAAGU/aba_00090.jpg	none	"How to walk over the blue bridge?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) Walk forward to the grey house with a red roof. Turn left and cross the street to the bridge.
+(B) Walk straight forward to the traffic light. Wait for a crossing signal. Cross the road and walk over the bridge.
+(C) Turn right, run over the street without looking. Turn left and walk to the bridge.
+(D) Move Forward to the tree. Turn left and cross the street, reaching the bridge."	B	ABAAGU	Spatial Perception
+91	image	MCQ	ABAAGU/aba_00091.jpg	none	"How to get to the building with the 'DM' sign?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) Walk forward. At the crossing look for passing vehicles then cross the street. Turn left and keep walking past the bus stop to the 'DM' sign, then turn right and walk forward.
+(B) Walk forward. At the crossing look for passing vehicles then cross the street. Turn right and walk forward.
+(C) Keep walking straight ahead. When reaching the height of the 'DM' sign, turn right and run over the street without looking. Walk forward.
+(D) Walk forward. Turn left. Cross the street to the 'DM' building."	A	ABAAGU	Spatial Perception

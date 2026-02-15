@@ -1,0 +1,121 @@
+index	input_type	type	image_path	video_path	question	answer	data_source	task
+92	image	MCQ	ABAAGU/aba_00092.jpg	none	"What is the exact width of the street? (in meters)
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete choice exactly as listed. Select from the following choices.
+(A) 20.5
+(B) 30.5
+(C) 15.5
+(D) 25.5"	A	ABAAGU	Spatial Perception
+93	image	MCQ	ABAAGU/aba_00093.jpg	none	"What is the exact distance to the orange pole? (in meters)
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 8
+(B) 6
+(C) 4
+(D) 10"	B	ABAAGU	Spatial Perception
+94	image	MCQ	ABAAGU/aba_00094.jpg	none	"What is the exact width of the red area? (in meters)
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 10.3
+(B) 7.3
+(C) 8.8
+(D) 5.8"	C	ABAAGU	Spatial Perception
+95	image	MCQ	ABAAGU/aba_00095.jpg	none	"What is the exact width of the left lane of the road? (in meters)
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 2
+(B) 3
+(C) 5
+(D) 4"	D	ABAAGU	Spatial Perception
+96	image	MCQ	ABAAGU/aba_00096.jpg	none	"How far away is the tower (in meters)?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 75
+(B) 85
+(C) 95
+(D) 105"	B	ABAAGU	Spatial Perception
+97	image	MCQ	ABAAGU/aba_00097.jpg	none	"How far is the yellow car away in meters?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 15
+(B) 20
+(C) 25
+(D) 30"	C	ABAAGU	Spatial Perception
+98	image	MCQ	ABAAGU/aba_00098.jpg	none	"How far apart are the right black and white cars in meters?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 3.9
+(B) 4.6
+(C) 5.3
+(D) 6"	C	ABAAGU	Spatial Perception
+99	image	MCQ	ABAAGU/aba_00099.jpg	none	"How far apart are the two black cars in meters?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 4
+(B) 2
+(C) 5
+(D) 3"	A	ABAAGU	Spatial Perception
+100	image	MCQ	ABAAGU/aba_00100.jpg	none	"How far away is the tramway with the number 3 in meters?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 16
+(B) 24
+(C) 32
+(D) 40"	C	ABAAGU	Spatial Perception
+101	image	MCQ	ABAAGU/aba_00101.jpg	none	"How wide is the alley after the corner of the wall in meters?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 1.5
+(B) 1.8
+(C) 2.4
+(D) 3.0"	B	ABAAGU	Spatial Perception
+102	image	MCQ	ABAAGU/aba_00102.jpg	none	"How far away is the bridge in meters?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 135
+(B) 95
+(C) 175
+(D) 50"	A	ABAAGU	Spatial Perception
+103	image	MCQ	ABAAGU/aba_00103.jpg	none	"How far apart are the black car and the silver car in meters?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 6
+(B) 5
+(C) 2
+(D) 3.5"	D	ABAAGU	Spatial Perception
+104	image	MCQ	ABAAGU/aba_00104.jpg	none	"How far away is the tramway stop?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 50
+(B) 80
+(C) 120
+(D) 150"	B	ABAAGU	Spatial Perception
+105	image	MCQ	ABAAGU/aba_00105.jpg	none	"How far apart are the grey car and the black car in meters?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 17
+(B) 12
+(C) 22
+(D) 27"	A	ABAAGU	Spatial Perception
+106	image	MCQ	ABAAGU/aba_00106.jpg	none	"What is the distance to the green trash bins across the street? (in meters)
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 15
+(B) 22
+(C) 29
+(D) 39"	C	ABAAGU	Spatial Perception
+107	image	MCQ	ABAAGU/aba_00107.jpg	none	"How far (in meters) is the bus stop from your position?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 15
+(B) 22
+(C) 29
+(D) 36"	B	ABAAGU	Spatial Perception
+108	image	MCQ	ABAAGU/aba_00108.jpg	none	"How far is the white wall of the supermarket in front? (in meters)
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 20
+(B) 30
+(C) 40
+(D) 50"	C	ABAAGU	Spatial Perception
+109	image	MCQ	ABAAGU/aba_00109.jpg	none	"What is the distance between the two pillars? (in meters)
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 8
+(B) 5 
+(C) 10
+(D) 15"	8	ABAAGU	Spatial Perception
+110	image	MCQ	ABAAGU/aba_00110.jpg	none	"What is the distance (in meters) to the door from your position?
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 5
+(B) 10
+(C) 15
+(D) 20"	C	ABAAGU	Spatial Perception
+111	image	MCQ	ABAAGU/aba_00111.jpg	none	"How far is the vending machine from your position? (in meters)
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
+(A) 25 meters
+(B) 35 meters
+(C) 45 meters
+(D) 55 meters"	B	ABAAGU	Spatial Perception

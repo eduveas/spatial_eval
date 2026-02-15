@@ -1,0 +1,100 @@
+index	input_type	type	image_path	video_path	question	answer	data_source	task
+459	image	MCQ	SPAR-Bench/a813408cf77c3823217cdd32cbd072e9d076153c2b9430b7b0b44b0ed42d323a.jpg	none	"Evaluate the distances in the image. Is soap bottle (green point) or towel (blue point) positioned closer to soap bottle (red point)? Calculate or judge based on the 3D center points of these objects. Choose the correct option from the available choices.
+A. soap bottle (green point)
+B. towel (blue point)
+Your answer can only include one of options A, B.
+Select from the following choices.
+(A) soap bottle (green point)
+(B)"	A	SPAR-Bench	relative_distance
+32	image	MCQ	ABAAGU/aba_00032.jpg	none	"Which object is more distant from the plant?
+Your task is to answer only with one of the concrete options given. No explanation. No reasoning. Only the concrete choice. Select from the following choices.
+(A) chair
+(B) table"	A	ABAAGU	relative_distance
+33	image	MCQ	ABAAGU/aba_00033.jpg	none	"Which object has a shorter distance to the computer monitor?
+Select from the following choices.
+(A) chair
+(B) desk lamp"	B	ABAAGU	relative_distance
+34	image	MCQ	ABAAGU/aba_00034.jpg	none	"Which umbrella has a shorter distance to the water?
+Your task is to answer only with one of the concrete options given. No explanation. No reasoning. Only the concrete choice exactly as listed. Select from the following choices.
+(A) blue and green umbrella
+(B) yellow umbrella"	B	ABAAGU	relative_distance
+35	image	MCQ	ABAAGU/aba_00035.jpg	none	"Which guitar is more distant from the music stand?
+Select from the following choices.
+(A) guitar on the ground
+(B) guitar on the wall"	B	ABAAGU	relative_distance
+36	image	MCQ	ABAAGU/aba_00036.jpg	none	"Which teddy bear is more distant from the red teddy bear?
+Select from the following choices.
+(A) pink teddy bear
+(B) grey teddy bear"	A	ABAAGU	relative_distance
+37	image	MCQ	ABAAGU/aba_00037.jpg	none	"Which child is closer to the book shelf?
+Select from the following choices.
+(A) child in white shirt and black shorts
+(B) child with black hair in pink shirt"	A	ABAAGU	relative_distance
+38	image	MCQ	ABAAGU/aba_00038.jpg	none	"Which item has a shorter distance to the sandwich?
+Select from the following choices.
+(A) chips
+(B) drink"	A	ABAAGU	relative_distance
+39	image	MCQ	ABAAGU/aba_00039.jpg	none	"Which object is closer to the glass vase with flowers on the dresser?
+Select from the following choices.
+(A) jewelry box
+(B) the painting"	A	ABAAGU	relative_distance
+40	image	MCQ	ABAAGU/aba_00040.png	none	"Which object is closer to the wooden lamp?
+Select from the following choices.
+(A) headphones
+(B) red car"	A	ABAAGU	relative_distance
+41	image	MCQ	ABAAGU/aba_00041.png	none	"Which object has a farther distance from the tv?
+Select from the following choices.
+(A) serving tray
+(B) cabinet"	B	ABAAGU	relative_distance
+42	image	MCQ	ABAAGU/aba_00042.png	none	"Which person is closer to the mirror?
+Select from the following choices.
+(A) the person with curly hair and grey pants
+(B) the person with black socks and black hair"	B	ABAAGU	relative_distance
+43	image	MCQ	ABAAGU/aba_00043.png	none	"Which person is more distant from the blond haired woman?
+Select from the following choices.
+(A) The man across the table from her
+(B) The man at the whiteboard"	B	ABAAGU	relative_distance
+44	image	MCQ	ABAAGU/aba_00044.png	none	"Which person is farther away from the yellow sign with an arrow?
+Select from the following choices.
+(A) The woman with the trolley
+(B) The kid with the green helmet"	B	ABAAGU	relative_distance
+45	image	MCQ	ABAAGU/aba_00045.png	none	"Which object is more distant from the robot?
+Select from the following choices.
+(A) rugby
+(B) basketball"	A	ABAAGU	relative_distance
+46	image	MCQ	ABAAGU/aba_00046.png	none	"Which object is farther away from the carrots?
+Select from the following choices.
+(A) spring onion
+(B) pumpkin"	A	ABAAGU	relative_distance
+47	image	MCQ	ABAAGU/aba_00047.png	none	"Which car is closest to the blue traffic sign?
+Select from the following choices.
+(A) police car
+(B) police van"	B	ABAAGU	relative_distance
+48	image	MCQ	ABAAGU/aba_00048.png	none	"Which person is closest to the palm tree in the green pot?
+Select from the following choices.
+(A) The person with the white jacket sitting down
+(B) The person with blue jeans walking down"	A	ABAAGU	relative_distance
+49	image	MCQ	ABAAGU/aba_00049.png	none	"What is farther away from the robot?
+Select from the following choices.
+(A) The dog
+(B) The armchair"	B	ABAAGU	relative_distance
+50	image	MCQ	ABAAGU/aba_00050.png	none	"What is closer to the free wifi zone booth?
+Select from the following choices.
+(A) The grey car
+(B) The person sitting on the bench"	A	ABAAGU	relative_distance
+51	image	MCQ	ABAAGU/aba_00051.png	none	"Who is closer to the sidewalk on the other side?
+Select from the following choices.
+(A) Woman in the red jacket
+(B) Man with grey hoodie and backpack"	B	ABAAGU	relative_distance
+62	image	MCQ	ABAAGU/aba_00062.jpg	none	"What is closer to the camera: the wooden armchair or the radiator?
+Select from the following choices.
+(A) armchair
+(B) radiator"	B	ABAAGU	relative_distance
+63	image	MCQ	ABAAGU/aba_00063.jpg	none	"What is the color of the pillow closer in depth?
+Select from the following choices.
+(A) yellow
+(B) black and white"	A	ABAAGU	relative_distance
+70	image	MCQ	ABAAGU/aba_00070.jpg	none	"Is the painting or the mirror closer to the camera in 3D?
+Select from the following choices.
+(A) mirror
+(B) painting"	A	ABAAGU	relative_distance
