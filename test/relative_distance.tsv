@@ -1,11 +1,4 @@
 index	input_type	type	image_path	video_path	question	answer	data_source	task
-459	image	MCQ	SPAR-Bench/a813408cf77c3823217cdd32cbd072e9d076153c2b9430b7b0b44b0ed42d323a.jpg	none	"Evaluate the distances in the image. Is soap bottle (green point) or towel (blue point) positioned closer to soap bottle (red point)? Calculate or judge based on the 3D center points of these objects. Choose the correct option from the available choices.
-A. soap bottle (green point)
-B. towel (blue point)
-Your answer can only include one of options A, B.
-Select from the following choices.
-(A) soap bottle (green point)
-(B)"	A	SPAR-Bench	relative_distance
 32	image	MCQ	ABAAGU/aba_00032.jpg	none	"Which object is more distant from the plant?
 Your task is to answer only with one of the concrete options given. No explanation. No reasoning. Only the concrete choice. Select from the following choices.
 (A) chair

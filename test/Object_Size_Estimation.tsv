@@ -1,3 +1,4 @@
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed.
 index	input_type	type	image_path	video_path	question	answer	data_source	task
 12	image	MCQ	ABAAGU/aba_00012.jpg	none	"Which traffic light pole is taller, the left or the right one?
 Select from the following choices.
@@ -5,90 +6,90 @@ Select from the following choices.
 (B) the right one
 (C) they are equally tall"	C	ABAAGU	Object_Size_Estimation
 13	image	MCQ	ABAAGU/aba_00013.jpg	none	"Is the person bigger than the dog?
-Select from the following choices.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) Yes
 (B) No
 (C) they are equal is size"	A	ABAAGU	Object_Size_Estimation
 14	image	MCQ	ABAAGU/aba_00014.jpg	none	"Which animal is taller?
-Select from the following choices.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) the brown one
 (B) the grey one
 (C) they are equally tall"	B	ABAAGU	Object_Size_Estimation
 15	image	MCQ	ABAAGU/aba_00015.jpg	none	"Which is bigger?
-Select from the following choices.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) the black case
 (B) the orange laptop
 (C) they are the same size"	A	ABAAGU	Object_Size_Estimation
 16	image	MCQ	ABAAGU/aba_00016.jpg	none	"Is the head of the truck shorter than the container the truck is carrying?
-Select from the following choices.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) Yes
 (B) No"	B	ABAAGU	Object_Size_Estimation
 17	image	MCQ	ABAAGU/aba_00017.jpg	none	"Is red signal pole taller than streetlight pole?
-Select from the following choices.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) Yes
 (B) No
 (C) They are equally tall."	B	ABAAGU	Object_Size_Estimation
 18	image	MCQ	ABAAGU/aba_00018.jpg	none	"Which computer has a bigger screen?
-Select from the following choices.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) the computer with a person in front of it
 (B) the computer with no one in front of it
 (C) they are equally big"	A	ABAAGU	Object_Size_Estimation
 19	image	MCQ	ABAAGU/aba_00019.jpg	none	"Which beer glass has more volume, the near one or the far one?
-Select from the following choices.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) the near one
 (B) the far one
 (C) they have equal volume"	C	ABAAGU	Object_Size_Estimation
 20	image	MCQ	ABAAGU/aba_00020.jpg	none	"Which of the two piggies at the bottom of the picture is bigger, the white one or the pink one?
-Select from the following choices.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) the white one
 (B) the pink one
 (C) they have no visible difference in size"	C	ABAAGU	Object_Size_Estimation
 21	image	MCQ	ABAAGU/aba_00021.jpg	none	"Which cattle is taller?
-Select from the following choices.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) the brown one
 (B) the white one
 (C) they are equally tall"	A	ABAAGU	Object_Size_Estimation
 22	image	MCQ	ABAAGU/aba_00022.jpg	none	"Which teddy bear is the biggest?
-Select from the following choices.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) the frontmost one
 (B) the backmost one
 (C) they are all equally big"	B	ABAAGU	Object_Size_Estimation
 23	image	MCQ	ABAAGU/aba_00023.jpg	none	"Is the plate in front of the woman in black jacket bigger than the one in front of the woman in blue jacket?
-Select from the following choices.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) Yes
 (B) No"	B	ABAAGU	Object_Size_Estimation
 24	image	MCQ	ABAAGU/aba_00024.jpg	none	"Which object in the image is wider?
-Select from the following choices.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) the toilet
 (B) the washstand"	B	ABAAGU	Object_Size_Estimation
 25	image	MCQ	ABAAGU/aba_00025.jpg	none	"Is the rightmost pumpkin the biggest?
-Select from the following choices.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) Yes
 (B) No"	A	ABAAGU	Object_Size_Estimation
 26	image	MCQ	ABAAGU/aba_00026.jpg	none	"Which horse looks taller?
-Select from the following choices.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) the left one
 (B) the right one
 (C) they are equally tall"	A	ABAAGU	Object_Size_Estimation
 27	image	MCQ	ABAAGU/aba_00027.jpg	none	"Are the doors on the train similar in size?
-Select from the following choices.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) Yes
 (B) No"	A	ABAAGU	Object_Size_Estimation
 28	image	MCQ	ABAAGU/aba_00028.jpg	none	"The metal dividers for bikes have different heights?
-Select from the following choices.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) Yes
 (B) No"	B	ABAAGU	Object_Size_Estimation
 29	image	MCQ	ABAAGU/aba_00029.jpg	none	"Which sink is bigger, the one nearer to the viewer or the one farther from the viewer?
-Select from the following choices.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) the nearer one
 (B) the farther one
 (C) they are of the same size"	C	ABAAGU	Object_Size_Estimation
 30	image	MCQ	ABAAGU/aba_00030.jpg	none	"Which aircraft is bigger, aircraft 12 or aircraft 24?
-Select from the following choices.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) aircraft 12
 (B) aircraft 24
 (C) they are the same size"	C	ABAAGU	Object_Size_Estimation
 31	image	MCQ	ABAAGU/aba_00031.jpg	none	"The chairs on the top half of the picture are differently sized?
-Select from the following choices.
+Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) Yes
 (B) No"	B	ABAAGU	Object_Size_Estimation

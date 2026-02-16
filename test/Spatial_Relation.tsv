@@ -1,8 +1,4 @@
 index	input_type	type	image_path	video_path	question	answer	data_source	task
-413	image	MCQ	SPHERE-VLM/acb525792b5be005dae8c747cdebe6c2272c1028fc9bf61d8bce5cab0004cf32.jpg	none	"If you are the man in the image, where is the girl relative to your position?
-Select from the following choices.
-(A) left
-(B) right"	A	SPHERE-VLM	Spatial_Relation
 52	image	MCQ	ABAAGU/aba_00052.jpg	none	"If you are the man in the image, where is the girl relative to your position?
 Your task is to select the correct answer. Do not explain your reasoning nor your answer. Answer with the concrete correct choice exactly as listed. Select from the following choices.
 (A) left
